@@ -1,4 +1,4 @@
-# Learning-c-
+# Learning-c++
 Basic Programs I've worked on to further my understanding of C++
 
 Program 1: Calculates the root of a number.
